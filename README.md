@@ -1,6 +1,6 @@
 A webchat app made with Socket.io
 
-###Up and Running
+## Up and Running
 ```
 npm install
 npm start
